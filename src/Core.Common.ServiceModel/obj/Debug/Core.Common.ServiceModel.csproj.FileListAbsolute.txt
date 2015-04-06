@@ -1,0 +1,4 @@
+C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderManagement\Core.Common.ServiceModel\bin\Debug\Core.Common.ServiceModel.dll
+C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderManagement\Core.Common.ServiceModel\bin\Debug\Core.Common.ServiceModel.pdb
+C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderManagement\Core.Common.ServiceModel\obj\Debug\Core.Common.ServiceModel.dll
+C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderManagement\Core.Common.ServiceModel\obj\Debug\Core.Common.ServiceModel.pdb

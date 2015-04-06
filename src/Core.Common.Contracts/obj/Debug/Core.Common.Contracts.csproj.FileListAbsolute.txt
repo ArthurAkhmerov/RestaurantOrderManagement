@@ -1,0 +1,5 @@
+C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderManagement\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.dll
+C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderManagement\Core.Common.Contracts\bin\Debug\Core.Common.Contracts.pdb
+C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderManagement\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderManagement\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.dll
+C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderManagement\Core.Common.Contracts\obj\Debug\Core.Common.Contracts.pdb

@@ -1,0 +1,4 @@
+C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderManagement\ROM.Data.Contracts\bin\Debug\ROM.Data.Contracts.dll
+C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderManagement\ROM.Data.Contracts\bin\Debug\ROM.Data.Contracts.pdb
+C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderManagement\ROM.Data.Contracts\obj\Debug\ROM.Data.Contracts.dll
+C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderManagement\ROM.Data.Contracts\obj\Debug\ROM.Data.Contracts.pdb

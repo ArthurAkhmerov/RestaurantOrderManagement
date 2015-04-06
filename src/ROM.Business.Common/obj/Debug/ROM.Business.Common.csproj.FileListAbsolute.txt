@@ -1,0 +1,5 @@
+C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderManagement\ROM.Business.Common\bin\Debug\ROM.Business.Common.dll
+C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderManagement\ROM.Business.Common\bin\Debug\ROM.Business.Common.pdb
+C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderManagement\ROM.Business.Common\obj\Debug\ROM.Business.Common.csprojResolveAssemblyReference.cache
+C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderManagement\ROM.Business.Common\obj\Debug\ROM.Business.Common.dll
+C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderManagement\ROM.Business.Common\obj\Debug\ROM.Business.Common.pdb

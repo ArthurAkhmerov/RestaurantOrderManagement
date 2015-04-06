@@ -1,0 +1,4 @@
+C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderManagement\ROM.Business.Managers\bin\Debug\ROM.Business.Managers.dll
+C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderManagement\ROM.Business.Managers\bin\Debug\ROM.Business.Managers.pdb
+C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderManagement\ROM.Business.Managers\obj\Debug\ROM.Business.Managers.dll
+C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderManagement\ROM.Business.Managers\obj\Debug\ROM.Business.Managers.pdb
