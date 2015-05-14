@@ -3,3 +3,8 @@ C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderMana
 C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderManagement\ROM.Business.Bootstrapper\obj\Debug\ROM.Business.Bootstrapper.csprojResolveAssemblyReference.cache
 C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderManagement\ROM.Business.Bootstrapper\obj\Debug\ROM.Business.Bootstrapper.dll
 C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderManagement\ROM.Business.Bootstrapper\obj\Debug\ROM.Business.Bootstrapper.pdb
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Business.Bootstrapper\bin\Debug\ROM.Business.Bootstrapper.dll
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Business.Bootstrapper\bin\Debug\ROM.Business.Bootstrapper.pdb
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Business.Bootstrapper\obj\Debug\ROM.Business.Bootstrapper.csprojResolveAssemblyReference.cache
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Business.Bootstrapper\obj\Debug\ROM.Business.Bootstrapper.dll
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Business.Bootstrapper\obj\Debug\ROM.Business.Bootstrapper.pdb

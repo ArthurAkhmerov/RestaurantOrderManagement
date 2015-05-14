@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Data Repositories\AccountRepository.cs" />
     <Compile Include="DataRepositoryBase.cs" />
     <Compile Include="DataRepositoryFactory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -64,10 +65,12 @@
       <Project>{1ea63b84-3273-48b0-a1b2-5ccb502e4b9e}</Project>
       <Name>ROM.Business.Entities</Name>
     </ProjectReference>
+    <ProjectReference Include="..\ROM.Data.Contracts\ROM.Data.Contracts.csproj">
+      <Project>{834F525F-A0B7-435C-A1BC-513A881D7299}</Project>
+      <Name>ROM.Data.Contracts</Name>
+    </ProjectReference>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Data Repositories\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />

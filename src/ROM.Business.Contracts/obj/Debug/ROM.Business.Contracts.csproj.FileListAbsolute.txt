@@ -2,3 +2,7 @@ C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderMana
 C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderManagement\ROM.Business.Contracts\bin\Debug\ROM.Business.Contracts.pdb
 C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderManagement\ROM.Business.Contracts\obj\Debug\ROM.Business.Contracts.dll
 C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderManagement\ROM.Business.Contracts\obj\Debug\ROM.Business.Contracts.pdb
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Business.Contracts\bin\Debug\ROM.Business.Contracts.dll
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Business.Contracts\bin\Debug\ROM.Business.Contracts.pdb
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Business.Contracts\obj\Debug\ROM.Business.Contracts.dll
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Business.Contracts\obj\Debug\ROM.Business.Contracts.pdb

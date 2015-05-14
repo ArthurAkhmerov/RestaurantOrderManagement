@@ -28,3 +28,35 @@ C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderMana
 C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderManagement\ROM.Data\bin\Debug\tr\FluentValidation.resources.dll
 C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderManagement\ROM.Data\obj\Debug\ROM.Data.dll
 C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderManagement\ROM.Data\obj\Debug\ROM.Data.pdb
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Data\bin\Debug\ROM.Data.dll.config
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Data\bin\Debug\ROM.Data.dll
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Data\bin\Debug\ROM.Data.pdb
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Data\bin\Debug\Core.Common.Contracts.dll
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Data\bin\Debug\Core.Common.dll
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Data\bin\Debug\EntityFramework.dll
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Data\bin\Debug\ROM.Business.Entities.dll
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Data\bin\Debug\FluentValidation.dll
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Data\bin\Debug\Core.Common.Contracts.pdb
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Data\bin\Debug\Core.Common.pdb
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Data\bin\Debug\ROM.Business.Entities.pdb
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Data\bin\Debug\EntityFramework.xml
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Data\bin\Debug\FluentValidation.pdb
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Data\bin\Debug\FluentValidation.xml
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Data\bin\Debug\da\FluentValidation.resources.dll
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Data\bin\Debug\de\FluentValidation.resources.dll
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Data\bin\Debug\es\FluentValidation.resources.dll
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Data\bin\Debug\fi\FluentValidation.resources.dll
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Data\bin\Debug\fr\FluentValidation.resources.dll
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Data\bin\Debug\it\FluentValidation.resources.dll
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Data\bin\Debug\ko\FluentValidation.resources.dll
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Data\bin\Debug\nl\FluentValidation.resources.dll
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Data\bin\Debug\pl\FluentValidation.resources.dll
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Data\bin\Debug\pt\FluentValidation.resources.dll
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Data\bin\Debug\ru\FluentValidation.resources.dll
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Data\bin\Debug\sv\FluentValidation.resources.dll
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Data\bin\Debug\tr\FluentValidation.resources.dll
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Data\obj\Debug\ROM.Data.csprojResolveAssemblyReference.cache
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Data\obj\Debug\ROM.Data.dll
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Data\obj\Debug\ROM.Data.pdb
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Data\bin\Debug\ROM.Data.Contracts.dll
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Data\bin\Debug\ROM.Data.Contracts.pdb

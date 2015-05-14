@@ -2,3 +2,7 @@ C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderMana
 C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderManagement\ROM.Client.Bootstrapper\bin\Debug\ROM.Client.Bootstrapper.pdb
 C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderManagement\ROM.Client.Bootstrapper\obj\Debug\ROM.Client.Bootstrapper.dll
 C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderManagement\ROM.Client.Bootstrapper\obj\Debug\ROM.Client.Bootstrapper.pdb
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Client.Bootstrapper\bin\Debug\ROM.Client.Bootstrapper.dll
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Client.Bootstrapper\bin\Debug\ROM.Client.Bootstrapper.pdb
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Client.Bootstrapper\obj\Debug\ROM.Client.Bootstrapper.dll
+P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Client.Bootstrapper\obj\Debug\ROM.Client.Bootstrapper.pdb
