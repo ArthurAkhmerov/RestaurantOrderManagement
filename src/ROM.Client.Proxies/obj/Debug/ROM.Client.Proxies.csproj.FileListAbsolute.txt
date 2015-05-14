@@ -1,8 +1,0 @@
-C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderManagement\ROM.Client.Proxies\bin\Debug\ROM.Client.Proxies.dll
-C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderManagement\ROM.Client.Proxies\bin\Debug\ROM.Client.Proxies.pdb
-C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderManagement\ROM.Client.Proxies\obj\Debug\ROM.Client.Proxies.dll
-C:\Users\гык\Documents\Visual Studio 2013\Projects\WebApi\RestaurantOrderManagement\ROM.Client.Proxies\obj\Debug\ROM.Client.Proxies.pdb
-P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Client.Proxies\bin\Debug\ROM.Client.Proxies.dll
-P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Client.Proxies\bin\Debug\ROM.Client.Proxies.pdb
-P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Client.Proxies\obj\Debug\ROM.Client.Proxies.dll
-P:\Study\DIPLOMA\ROM\RestaurantOrderManagement\src\ROM.Client.Proxies\obj\Debug\ROM.Client.Proxies.pdb
