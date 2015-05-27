@@ -2,6 +2,10 @@
 using Core.Common.Core;
 using System.ServiceModel;
 using System.ComponentModel.Composition;
+using System.Threading;
+using Core.Common.Contracts;
+using ROM.Business.Entities;
+using ROM.Common;
 
 namespace ROM.Business.Managers
 {
@@ -9,15 +13,59 @@ namespace ROM.Business.Managers
     {
         public ManagerBase()
         {
+            OperationContext context = OperationContext.Current;
+            if (context != null)
+            {
+                try
+                {
+                    _LoginName = OperationContext.Current.IncomingMessageHeaders.GetHeader<string>("String", "System");
+                    if (_LoginName.IndexOf(@"\") > -1) _LoginName = string.Empty;
+                }
+                catch
+                {
+                    _LoginName = string.Empty;
+                }
+            }
+
             if (ObjectBase.Container != null)
                 ObjectBase.Container.SatisfyImportsOnce(this);
+
+            if (!string.IsNullOrWhiteSpace(_LoginName))
+                _AuthorizationAccount = LoadAuthorizationValidationAccount(_LoginName);
         }
 
-        protected T ExexcuteFaultHandledOperation<T>(Func<T> codetoExecute)
+        protected virtual Account LoadAuthorizationValidationAccount(string loginName)
+        {
+            return null;
+        }
+
+        Account _AuthorizationAccount = null;
+        string _LoginName = string.Empty;
+
+        protected void ValidateAuthorization(IAccountOwnedEntity entity)
+        {
+            if (!Thread.CurrentPrincipal.IsInRole(Security.ROMUserAdminRole))
+            {
+                if (_AuthorizationAccount != null)
+                {
+                    if (_LoginName != string.Empty && entity.OwnerAccountId != _AuthorizationAccount.AccountId)
+                    {
+                        AuthorizationValidationException ex = new AuthorizationValidationException("Attempt to access a secure record with improper user authorization validation.");
+                        throw new FaultException<AuthorizationValidationException>(ex, ex.Message);
+                    }
+                }
+            }
+        }
+
+        protected T ExecuteFaultHandledOperation<T>(Func<T> codetoExecute)
         {
             try
             {
                 return codetoExecute.Invoke();
+            }
+            catch (AuthorizationValidationException ex)
+            {
+                throw new FaultException<AuthorizationValidationException>(ex, ex.Message);
             }
             catch (FaultException ex)
             {
@@ -29,11 +77,15 @@ namespace ROM.Business.Managers
             }
         }
 
-        protected void ExecuteFaultHandledOperation(Action codeToExecute)
+        protected void ExecuteFaultHandledOperation(Action codetoExecute)
         {
             try
             {
-                codeToExecute.Invoke();
+                codetoExecute.Invoke();
+            }
+            catch (AuthorizationValidationException ex)
+            {
+                throw new FaultException<AuthorizationValidationException>(ex, ex.Message);
             }
             catch (FaultException ex)
             {

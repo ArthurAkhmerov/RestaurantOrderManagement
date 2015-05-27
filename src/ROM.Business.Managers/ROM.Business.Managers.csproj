@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ManagerBase.cs" />
+    <Compile Include="Managers\AccountManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -54,7 +55,24 @@
       <Project>{6360C7BF-7245-40B2-9B53-5D644AEB7DC2}</Project>
       <Name>Core.Common</Name>
     </ProjectReference>
+    <ProjectReference Include="..\ROM.Business.Contracts\ROM.Business.Contracts.csproj">
+      <Project>{45E42F6D-8F07-427C-A551-4FB711256FF5}</Project>
+      <Name>ROM.Business.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ROM.Business.Entities\ROM.Business.Entities.csproj">
+      <Project>{1EA63B84-3273-48B0-A1B2-5CCB502E4B9E}</Project>
+      <Name>ROM.Business.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ROM.Common\ROM.Common.csproj">
+      <Project>{EC930F47-CC08-4E85-AB41-FE694D091D48}</Project>
+      <Name>ROM.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ROM.Data.Contracts\ROM.Data.Contracts.csproj">
+      <Project>{834F525F-A0B7-435C-A1BC-513A881D7299}</Project>
+      <Name>ROM.Data.Contracts</Name>
+    </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
